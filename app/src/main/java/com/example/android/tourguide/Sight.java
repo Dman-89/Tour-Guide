@@ -9,13 +9,11 @@ public class Sight implements Parcelable {
     private String mAddress;
     private String mDescription;
     private int mImageResourceId;
-//    private int mSoundId;
 
     public Sight(String name, String description, int resourceId) { //, int soundId
         this.mName = name;
         this.mDescription = description;
         this.mImageResourceId = resourceId;
-//        this.mSoundId = soundId;
     }
 
     public Sight(String name, String address, String description, int resourceId) { //, int soundId
@@ -23,7 +21,6 @@ public class Sight implements Parcelable {
         this.mAddress = address;
         this.mDescription = description;
         this.mImageResourceId = resourceId;
-//        this.mSoundId = soundId;
     }
 
     public String getName () {
@@ -41,8 +38,6 @@ public class Sight implements Parcelable {
     public int getImageResourceId () {
         return mImageResourceId;
     }
-
-//    public int getSoundId() {return mSoundId;}
 
 
     protected Sight(Parcel in) {

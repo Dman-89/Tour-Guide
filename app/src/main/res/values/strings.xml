@@ -6,6 +6,7 @@
     <string name="description">Description</string>
     <string name="choose">Choose a city to get started</string>
     <string name="welcome">Welcome to Express Vladimir Region tour guide!</string>
+    <string name="back">Back</string>
 
     <string name="nav_header">Express Vladimir region tour guide</string>
     <string name="about">About</string>

@@ -34,33 +34,33 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:scaleType="center"
-                    android:paddingTop="60dp"
                     android:paddingBottom="20dp"
+                    android:paddingTop="60dp"
+                    android:scaleType="center"
                     android:src="@drawable/vladimir_region_coat_of_arms" />
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:textStyle="bold"
+                    android:layout_marginBottom="20dp"
+                    android:fontFamily="sans-serif-light"
                     android:gravity="center"
                     android:padding="12dp"
-                    android:textSize="28sp"
-                    android:fontFamily="sans-serif-light"
-                    android:layout_marginBottom="20dp"
+                    android:text="@string/welcome"
                     android:textColor="@color/colorPrimaryDark"
-                    android:text="@string/welcome" />
+                    android:textSize="28sp"
+                    android:textStyle="bold" />
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:layout_marginBottom="20dp"
+                    android:fontFamily="sans-serif-light"
                     android:gravity="center"
                     android:padding="12dp"
-                    android:textSize="22sp"
-                    android:fontFamily="sans-serif-light"
-                    android:layout_marginBottom="20dp"
+                    android:text="@string/choose"
                     android:textColor="@color/colorPrimaryDark"
-                    android:text="@string/choose" />
+                    android:textSize="22sp" />
 
             </LinearLayout>
 
@@ -74,7 +74,7 @@
         android:layout_height="match_parent"
         android:layout_gravity="start"
         android:fitsSystemWindows="true"
-        app:menu="@menu/drawer_view"
-        app:headerLayout="@layout/nav_header" />
+        app:headerLayout="@layout/nav_header"
+        app:menu="@menu/drawer_view" />
 
 </android.support.v4.widget.DrawerLayout>

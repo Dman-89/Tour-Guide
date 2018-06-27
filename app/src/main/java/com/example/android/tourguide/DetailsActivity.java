@@ -20,7 +20,7 @@ public class DetailsActivity extends AppCompatActivity {
         // toolbar setup
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar_details);
         setSupportActionBar(toolbar);
-        getSupportActionBar().setTitle("Back");
+        getSupportActionBar().setTitle(getResources().getString(R.string.back));
 
         // add back arrow to toolbar, back arrow is a default icon
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);

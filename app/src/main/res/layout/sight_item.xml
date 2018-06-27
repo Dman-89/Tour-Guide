@@ -9,7 +9,7 @@
         android:id="@+id/image"
         android:layout_width="@dimen/list_item_height"
         android:layout_height="@dimen/list_item_height"
-        android:background="#1E88E5"
+        android:background="@color/recyclerview_item"
         tools:src="@drawable/golden_gates" />
 
     <LinearLayout
@@ -17,25 +17,26 @@
         android:layout_width="match_parent"
         android:layout_height="@dimen/list_item_height"
         android:layout_toRightOf="@id/image"
+        android:background="@color/recyclerview_item"
         android:gravity="center_vertical"
         android:orientation="vertical"
-        android:paddingLeft="16dp"
-        android:background="#1E88E5">
+        android:paddingLeft="16dp">
 
         <TextView
             android:id="@+id/name_text_view"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginRight="34dp"
             android:textAppearance="?android:textAppearanceMedium"
-            android:textColor="#FFFFFF"
+            android:textColor="@color/recyclerview_item_text"
             android:textStyle="bold"
-            tools:text="Golden Gates" />
+            tools:text="Golden Gates"/>
 
     </LinearLayout>
 
     <ImageView
-        android:layout_width="24dp"
-        android:layout_height="24dp"
+        android:layout_width="@dimen/icon"
+        android:layout_height="@dimen/icon"
         android:layout_alignParentRight="true"
         android:layout_centerVertical="true"
         android:layout_marginRight="16dp"
