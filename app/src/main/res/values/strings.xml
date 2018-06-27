@@ -1,0 +1,336 @@
+<resources>
+
+    <string name="app_name">Tour Guide</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="description">Description</string>
+    <string name="choose">Choose a city to get started</string>
+    <string name="welcome">Welcome to Express Vladimir Region tour guide!</string>
+
+    <string name="nav_header">Express Vladimir region tour guide</string>
+    <string name="about">About</string>
+    <string name="vladimir">Vladimir</string>
+    <string name="suzdal">Suzdal</string>
+    <string name="murom">Murom</string>
+    <string name="raduzhnyy">Raduzhnyy</string>
+
+    <string name="golden_gates">Golden Gates</string>
+    <string name="golden_gates_address">Bol\'shaya Moskovskaya str., 1A</string>
+    <string name="central_park">Central Park of Vladimir\'s 850th anniversary</string>
+    <string name="central_park_address">Between Baturina, Mira, Mikhailovskaya and Suzdalskaya streets</string>
+    <string name="dmitrievskiy_cathedral">Dmitrievskiy Cathedral</string>
+    <string name="dmitrievskiy_cathedral_address">Sobornaya ploschad\' (in the center of Vladimir)</string>
+    <string name="georgievakaya_street">Georgievskaya Street</string>
+    <string name="georgievakaya_street_address">(obviously) Georgievskaya Street</string>
+    <string name="city_council">City Council</string>
+    <string name="city_council_address">Bol\'shaya Moskovskaya str., 54</string>
+    <string name="crystal_museum">Crystal Museum</string>
+    <string name="crystal_museum_address">Dvoryanskaya str., 2</string>
+    <string name="patriarchal_gardens">Patriarchal Gardens Park</string>
+    <string name="patriarchal_gardens_address">Gor\'kogo str., d.62</string>
+    <string name="alexander_nevskiy_square">Alexander Nevskiy Square</string>
+    <string name="alexander_nevskiy_square_address">Bol\'shaya Moskovskaya str., 66a</string>
+    <string name="observation_deck">Observation Deck</string>
+    <string name="observation_deck_address">At the end of Pushkin\'s Park</string>
+    <string name="spasskiy_hill">Spasskiy Hill</string>
+    <string name="spasskiy_hill_address">Near Water Tower on Kozlov Val str.</string>
+    <string name="old_pharmacy">Old Pharmacy</string>
+    <string name="old_pharmacy_address">Georgievskaya str., 3</string>
+    <string name="lunacharskiy_theatre">Lunacharskiy Drama Theatre</string>
+    <string name="lunacharskiy_theatre_address">Dvoryanskaya str., 4</string>
+    <string name="uspenskiy_cathedral">Uspenskiy Cathedral</string>
+    <string name="uspenskiy_cathedral_address">Sobornaya square</string>
+    <string name="water_tower">Water Tower</string>
+    <string name="water_tower_address">from theatre square to Kozlov Val str.</string>
+    <string name="ww2_memorial">World War 2 Memorial</string>
+    <string name="ww2_memorial_address">Victory Square, where Lenin prospect crosses Chaikovskiy str.</string>
+
+    <string name="eternal_fire">Eternal Fire</string>
+    <string name="mead">Suzdal Mead</string>
+    <string name="pokrovskiy_monastery">Pokrovskiy monastery</string>
+    <string name="pozharskiy_monument">Monument to Dmitriy Pozharskiy</string>
+    <string name="rizopolozhenskiy_monastery">Rizopolozhenskiy monastery</string>
+    <string name="spaso_efimyev_monastery">Spaso-Efimyev monastery</string>
+    <string name="suzdal_kremlin">Suzdal Kremlin</string>
+    <string name="trading_area">Historical Trading Area</string>
+    <string name="wooden_archtecture_museum">Wooden architecture museum</string>
+    
+    <string name="spaso_preobrazhenskiy_monastery">Spaso-Preobrazhenskiy monastery</string>
+    <string name="spaso_preobrazhenskiy_monastery_address">Lakina str., 1-a</string>
+    <string name="armored_train">\"Ilya Muromets\" armored train</string>
+    <string name="armored_train_address">Vladimirskoe highway, in the park of the 50th anniversary of the Soviet authority</string>
+    <string name="karacharovo">Karacharovo village</string>
+    <string name="karacharovo_address">Karacharovo microdistrict</string>
+    <string name="monument_to_ilya_muromets">Monument to Ilya Muromets</string>
+    <string name="monument_to_ilya_muromets_address">Observation deck in Okskiy park</string>
+    <string name="murom_bridge">Murom bridge</string>
+    <string name="murom_bridge_address">Located at the turn from the Nizhny Novgorod highway (route P72, P125)</string>
+    <string name="railway_museum">Railway station and museum</string>
+    <string name="railway_museum_address">Privokzalnaya square</string>
+    <string name="svyato_voznesenskiy_cathedral">Svyato-Voznesenskiy Cathedral</string>
+    <string name="svyato_voznesenskiy_cathedral_address">Moskovskaya str., 15a</string>
+    <string name="ww2_monument_verbovchany">World War 2 monument to Verbovchan citizens</string>
+    <string name="ww2_monument_verbovchany_address">located at the intersection of Leningradskaya and 30 Let Pobedy streets</string>
+    <string name="zvorykin_monument">Monument to Vladimir Zvorykin</string>
+    <string name="zvorykin_monument_address">Pervomajskaya str., 4</string>
+    
+    <string name="chernobyl_monument">Chernobyl disaster monument</string>
+    <string name="bmp">Monument to veterans of military actions</string>
+    <string name="dragon">\"Skyrim\" monument</string>
+    <string name="fountain">City singing fountain</string>
+    <string name="kosminov_monument">Monument to city founder I.S. Kosminov</string>
+    <string name="seamen_monument">Monument to the dead seamen</string>
+    <string name="pentagon">\"Pentagon\" building</string>
+    <string name="stella">World War 2 Stella</string>
+
+    <string name="golden_gates_description">A road to the city is opened by the Golden Gate (1164).
+        In their meaning they were like the Golden Gate of Constantinople or the Golden Gates
+        of Kiev,from which the road to the heart of the capital began - to the monasteries and the
+        St. Sophia Cathedral. But the Golden Gate of Vladimir was not only the triumphal arch of the
+        city. It was a battle fortress that could withstand the onslaught of the Tatar hordes.
+    </string>
+    <string name="central_park_description">Entertainment in the park is not limited only to
+        attractions. Concerts, contests, meetings with interesting people are held constantly here.
+        And always holidays are celebrated by special programs. There are exhibitions of children's
+        drawings, gaming, theatrical, and sports competitions, performances of creative groups.
+    </string>
+    <string name="dmitrieskiy_cathedral_description">the court temple, built by Vsevolod the 
+        Big Nest in the prince\'s court and consecrated in honor of the Great Martyr Demetrius 
+        of Thessalonica. According to N. N. Voronin, it was built in 1194-1197. 
+        The cathedral is famous for its white stone carvings - its walls are decorated with about 
+        600 reliefs depicting saints, mythical and real animals. Most of the reliefs were preserved 
+        in their original form.
+    </string>
+    <string name="georgievakaya_street_description">Georgievskaya street recently became pedestrian
+        with two new viewing platforms appeared at once. Georgievskaya street was landscaped by the
+        day of the city of Vladimir in 2015 - the buildings were restored, the road was laid with
+        paving stones, set benches, set up sculptures, and at the end of the street there was an
+        observation deck with views of the Uspenskiy Cathedral.
+    </string>
+    <string name="city_council_description">The building of the City Duma was built in 1907 in the very center
+        of the city on Cathedral Square with the money of Vladimir merchants.
+        The City Duma is a 2-story building under a metal four-tiled roof.
+        The central facade ends on two sides with two small tents.
+        The facades are decorated with elements typical of Old Russian architecture.
+        The building is decorated with a keel arch under the balcony at the level of the 2nd floor.
+    </string>
+    <string name="crystal_museum_description">The work of the masters of glass and crystal is represented by
+        products that can only cause admiration. From colored glass and crystal there are presented 
+        instruments for wine, water, honey, as well as vases, decorative dishes and other products.
+    </string>
+    <string name="patriarchal_gardens_description">One of the most beautiful places in Vladimir.
+        The garden dates back to the 16th century. In Vladimir there was no patriarch\'s residence,
+        but the cherry orchard was specially planted, where the capital\'s clergy came to rest.
+        Patriarchal gardens are 3 hectares of land planted with dozens of varieties of fruit trees
+        and shrubs, berries, wild plants and herbs. The garden descends to the Klyazma steps, it is
+        multi-level, presented in the traditions of French park architecture.
+    </string>
+    <string name="alexander_nevskiy_square_description">The square located next to the city\'s
+        planetarium is very small in space. In the square there is a monument to Alexander Nevsky.
+        The uniqueness of this place in a stunning form opening to the Klyazmen floodplain.
+        The lawns with wood framing prevail.
+    </string>
+    <string name="observation_deck_description">From the observation platform in Pushkin Park one
+        can see the architectural monuments of Vladimir and the magnificent panorama of Vladimir\'s
+        expanses, in the distance one can see the Country Park. On July 28, 2007, in connection with
+        the 850th anniversary of the transfer of the capital of Rus from Kiev to Vladimir on the
+        observation platform a monument to the founder of the city, Prince Vladimir Krasnoe
+        Solnyshko (Red Sun) and Saint Fedor, the baptizer of the Vladimir land.
+    </string>
+    <string name="spasskiy_hill_description">One of the new sightseens - a small square near the
+        church, called "Spasskiy Hill" was landscaped to the City Day of Vladimir in 2014.
+        On the Spasskiy hill, guests are greeted by the "Oak tree".It is known that it is widespread
+        in the forests of the region. From the observation platform of the Spasskiy Hill,
+        one will see a beautiful view on the Uspenskiy Cathedral.
+    </string>
+    <string name="old_pharmacy_description">A two-storey semi-stone house under an iron roof was
+        built in the late 18th century. as an outbuilding at the gubernia house. In 1805, on
+        September 15, the first state pharmacy was opened in the Vladimir region on the first floor.
+        Before that time, there was only a private pharmacy in the city, opened as far back as 1781.
+        Until 2011, on the first floor of the house, there was a pharmacy, known to the citizens as
+        "old pharmacy".
+    </string>
+    <string name="lunacharskiy_theatre_description">The Drama Theater in Vladimir was founded in
+        1848 and is one of the oldest in the country. The repertoire of the theater includes
+        performances based on the works of famous classical authors, as well as plays by
+        contemporary playwrights and fairy tales for children.
+    </string>
+    <string name="uspenskiy_cathedral_description">An outstanding monument of white stone
+        architecture of pre-Mongol Rus. Orthodox church of the Vladimir diocese; also the state
+        museum. Historically, before the rise of Moscow, was the main (cathedral) temple of
+        Vladimir-Suzdal Rus, the Vladimir and Moscow princes married in the great reign. A monument
+        of Russian architecture of the 12th century, which served as a model for a number of later
+        cathedrals, including the Uspensky Cathedral of Aristotle Fioravanti. One of the few
+        churches in which the unique frescoes of Andrei Rublev are preserved.
+    </string>
+    <string name="water_tower_description">In the former water tower, there is a very interesting
+        exposition of the Old Vladimir Museum-Reserve. Visitors will see photos of old Vladimir
+        streets, household items, interiors, print production of pre-revolutionary times - all this
+        recreates a vivid picture of the life and customs of the old Vladimir. On the top of the
+        tower, there\'s an observation platform, where one can see the panorama of the city with its
+        new districts, ancient monuments, picturesque views.
+    </string>
+    <string name="ww2_memorial_description">Square of military glory in Vladimir. The memorial on
+        the square was built on the site of the Yamskaya Kazan zekvi demolished in 1966. The main
+        component of the architectural design of the memorial on Victory Square is the stele in
+        honor of the military units formed in Vladimir in 1941-1942. Contains a list of 9 military
+        units formed in Vladimir in 1941-42.
+    </string>
+
+    <string name="eternal_fire_description">\"The eternal memory of the Suzdalians who died in the
+        battles for the freedom and independence of our homeland\" is engraved on a memorial stone.
+        Due to the specificity of Suzdal, Eternal Fire is not a necessary place to visit,
+        but in the autumn and winter many tourists come to it just to warm up.
+    </string>
+    <string name="mead_description">It\'s not actually a sightseen, but nevertheless it\'s a unique
+    drink that is produced ONLY in Suzdal by historical recipes. Mead which is called in russian
+        "Medovuha" is original Russian traditional drink based on natural honey, prepared by the
+        method of natural fermentation. The composition of the product is absolutely natural and
+        suitable even for those who carefully choose food and drinks for the safety of ingredients.
+    </string>
+    <string name="pokrovskiy_monastery_description">Pokrovsky Monastery is an active women\'s
+        monastery, and received its gloomy fame as a place of exile and imprisonment for
+        aristocratic prisoners such as Vasiliy III\'s wife Solomoniya Saburova, wife of Ivan the
+        Terrible\'s son Yevdokia, wife of Ivan the Terrible Anna Vasilchikova, wife of Peter I
+        Evdokia Lopukhina.
+    </string>
+    <string name="pozharskiy_monument_description">The monument to Dmitry Mikhailovich Pozharsky,
+        the national Russian hero, leader of the people\'s militia, which freed the country from
+        Polish-Lithuanian invaders, stands against the backdrop of the entrance tower of the
+        Spaso-Efimyev Monastery near the southern wall, in the square. The monument to the national
+        hero was solemnly opened October 28, 1955.
+    </string>
+    <string name="rizopolozhenskiy_monastery_description">In 1207, at the crossroads, Bishop Ioann
+        of Rostov-Suzdal founded the convent of Reese of the Theotokos or Rizopolozhensky. The
+        history of this monastery is closely connected with the famous Suzdal saint, whose relics
+        many people still go to worship - the Monk Euphrosyne of Suzdal.
+    </string>
+    <string name="spaso_efimyev_monastery_description">this landmark of Suzdal could well be put on
+        the first place in the conditional ranking. In front of the main entrance, located in the
+        monastery tower, is a small square with a monument to the most famous Suzdal citizen -
+        Prince Dmitry Pozharsky. Spaso-Efimiev monastery was originally conceived as a fortress,
+        the Suzdal principality after its unification with Nizhny Novgorod and the transfer of the
+        squad to Nizhny needed a strong outpost to protect the western borders.
+    </string>
+    <string name="suzdal_kremlin_description">In the 12th century, the city began to be built on the
+        site where the museum under the name "Suzdal Kremlin" is located nowadays. Here, in the bend
+        of Kamenka river, the first earthworks were erected and the first city cathedral was built.
+        The Kremlin preserved the ramparts, moats and some churches that historically belonged
+        to the Kremlin. Now Suzdal Kremlin is a museum with numerous expositions dedicated to the
+        history of Suzdal land, famous people associated with it, treasures from monasteries and
+        churches, ancient Russian painting and applied art.
+    </string>
+    <string name="trading_area_description">The shopping area is the central square of Suzdal.
+        It originated in the middle of the 12th century and has since retained its layout, which in
+        modern urban planning can be called a unique fact. Here, in the center of public life, all
+        the large-scale holidays and events of the city are held. It is a popular tourist
+        destination due to the large number of churches located here, and of course the guest house.
+        Initially, all the churches were wooden, but in the 18th century after the fire they were
+        replaced by stone ones, and in the 19th century the restoration of the courtyard building
+        was carried out, where more than a hundred shopping malls were once located.
+    </string>
+    <string name="wooden_archtecture_museum_description">The Museum of Wooden Architecture and
+        Peasant Life is a complex of architectural monuments in the open air. The exposition of the
+        museum reproduces a small village with cottages, churches, household buildings and windmills
+        of the XVII-XIX centuries, which were brought here from different parts of the Vladimir
+        region. Over the reconstructed village towering two churches, erected without a single nail.
+        Here you can see the house of a simple farm laborer, a well-to-do peasant and a merchant.
+        In the interiors the huts store samovars and furniture, dishes and toys, wooden spinning
+        wheels and looms.
+    </string>
+
+    <string name="chernobyl_monument_description"> Pedestal with a memorial plate in memory of the
+        participants in the liquidation of the Chernobyl nuclear power plant accident was installed
+        In April 2001 near the house number 2 in the first block.
+    </string>
+    <string name="bmp_description">This is a monument to veterans of Afghanistan and Chechnya war
+        conflicts. It was installed in 2015.</string>
+    <string name="dragon_description">It\'s not an official sightseen. Actually it\'s a private
+    monument of local oil company. It can be figured out by cautious inspection of the image - the
+        dragon is nestling an oil tower. Raduzhnyy citizens call this monument a "Skyrim dragon" in
+        parallel with respective computer game.
+    </string>
+    <string name="fountain_description">Main city fountain, which works every evening during
+        snowless period of the year. It has musical and lumiere accompanying. This in one of the
+        favourite places for citizens to spend their evening time.
+    </string>
+    <string name="kosminov_monument_description">The name of the founder of Raduzhnyy is known to
+        every inhabitant of the city. It is General Ivan Sergeevich Kosminov. In 1971, when the
+        construction of the Raduga design bureau was started, Kosminov was commissioned to supervise
+        the work. Simultaneously, the construction of necessary housing facilities and
+        infrastructure was carried out. So it was first formed the village of Vladimir-30,
+        and then the city of Raduzhnyy.</string>
+    <string name="seamen_monument_description">This monument was installed at July 30, 2004 in the
+        honor of seamen, who died defending the glory of russian fleet.</string>
+    <string name="pentagon_description">This is an unfinished building of a modern living house.
+        Hardly anybody now will tell why it is called \"Pentagon\". It\'s not an official sightseen,
+        and its area is restricted to enter. But this object is not guarded by anyone, and Raduzhnyy
+        citizens, especially younger ones very love this building, because if one climbs on the
+        roof, then a very beautiful view on town and long distances is opened.
+    </string>
+    <string name="stella_description">This high stone stele was erected in memory of those were
+        killed during the World War 2. Established in honor of the 70th anniversary of victory.
+    </string>
+
+    <string name="spaso_preobrazhenskiy_monastery_description">one of the oldest monasteries in the
+        north-east of Russia. Belongs to the Vladimir-Suzdal Diocese of the Russian Orthodox Church.
+        This monastery is one of the main attractions of Murom, which guests visit. Presumably the
+        relics of Elijah the Murom of the saint are in the Chievo-Pechora Lavra. Bogatyr was
+        canonized among her other companions in 1643. Information about his life is drawn from
+        folk legends - in the annals we do not meet his name, but in the Western European sagas
+        of the XII-XIII centuries a certain Ilya from Russia is mentioned.
+    </string>
+    <string name="armored_train_description">During the Great Patriotic War, Murom was a rear city.
+        Its inhabitants selflessly worked in factories, raised funds for the defense of the country.
+        So, as a gift to the front, workers of the locomotive repair shops built an armored train
+        in 1941-1942. The authorities wanted to call him "For the Motherland", but the builders at
+        the rally defended their name - "Ilya Muromets". It is symbolic that during the war the
+        Murom iron hero destroyed in battle the enemy armored train "Adolf Hitler".
+    </string>
+    <string name="karacharovo_description">Picturesque micro district Karacharovo (once the
+        village-home of Ilya of Murom) - in itself is already a tourist attraction. According to
+        written sources, the village of Karacharovo is known since the XVII century. From the
+        monuments of architecture here is the estate "Krasnaya Gora" including a manor house,
+        two outbuildings, outbuildings and a linden alley. The village has preserved the sights
+        associated with the name of the most famous of its native - the hero Ilya of Murom.
+    </string>
+    <string name="monument_to_ilya_muromets_description">On the observation deck in 1999, a monument
+        to the hero Ilya Muromets was erected. Sculptor Vyacheslav Klykov (his most famous work is
+        a monument to Marshal G.K. Zhukov in Moscow) depicted him in two hypostases - as a warrior
+        and as a monk: in a raised hand the saint holds a sword, and in another - a cross.
+        The militant gesture of Ilya Muromets is not accidental - here, on the banks of the Oka
+        River, the border of the Russian lands passed in antiquity. At the pedestal of the monument
+        are the figures of seated griffins. With his left paw, fabulous birds rest on a shield.
+    </string>
+    <string name="murom_bridge_description">Cable-stayed bridge across the Oka River near the city
+        of Murom in the Vladimir region and the city of Navashino in the Nizhny Novgorod region.
+        Recently it was recognized as the most beautiful bridge in Russia, and according to the
+        deputy head of the Federal Road Agency is a world-class landmark that the whole country
+        can be proud of rightfully.
+    </string>
+    <string name="railway_museum_description">The railway station building was, remains and, for
+        certain, will remain the pride of the Murom, one of the business cards and attractions of
+        the city. To the 100th anniversary of the opening, a small museum was opened inside the
+        building, where exhibits from different eras tell of the history of the Murom railway station.
+    </string>
+    <string name="svyato_voznesenskiy_cathedral_description">One of the most beautiful temples in
+        Murom, located at the intersection of two important city highways of the streets of Moscow
+        and Leo Tolstoy. It was built in 1729 instead of the wooden Ascension church.
+    </string>
+    <string name="ww2_monument_verbovchany_description">Monument to the people who fell in battle
+        for their homeland in 1941-1945. was installed in the town of Murom in the town of Murom in
+        1975. The history of the monument is interesting. According to the project manager G.N.
+        Karachev in the famous film "Optimistic tragedy" he saw a monument to the sailors of the
+        Civil War. Out of a single block of stone, the figures of the dead seamen were appearing.
+        The concept of sculpture shocked G.N. Karachev and he had an idea about creating a similar
+        monument in the village of Verbovsk, but dedicated to the perished of the Verbovians during
+        the Great Patriotic War.
+    </string>
+    <string name="zvorykin_monument_description">Vladimir Zvorykin is the most famous Muromlian
+        (after Ilya Muromets), the founder of modern television. He was born in Murom in the family
+        of the merchant of the first guild of Kozma Zvorykin. The idea of composition of the
+        monument: a student of the St. Petersburg "polytechnic" of the early 20th century,
+        Vladimir Zvorykin, sitting on a bench near his home.
+    </string>
+
+</resources>

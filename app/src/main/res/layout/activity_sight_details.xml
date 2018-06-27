@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbarAlwaysDrawVerticalTrack="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_details"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+        <ImageView
+            android:id="@+id/image_details"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:src="@drawable/golden_gates"
+            android:scaleType="centerInside"
+            android:layout_marginTop="10dp"/>
+
+        <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp">
+
+            <GridLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:columnCount="2"
+                android:padding="8dp" >
+
+                <TextView
+                    android:layout_margin="8dp"
+                    android:text="@string/name"
+                    android:textStyle="bold"
+                    android:textSize="16sp"/>
+
+                <TextView
+                    android:id="@+id/name_text_view_details"
+                    android:layout_margin="8dp"
+                    tools:text="@string/golden_gates"
+                    android:textSize="16sp"
+                    android:layout_width="0dp"
+                    android:layout_gravity="fill_horizontal"/>
+
+                <TextView
+                    android:id="@+id/address_address_tv"
+                    android:layout_margin="8dp"
+                    android:text="@string/address"
+                    android:textStyle="bold"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/address_text_view_details"
+                    android:layout_margin="8dp"
+                    tools:text="@string/golden_gates_address"
+                    android:textSize="16sp"
+                    android:layout_width="0dp"
+                    android:layout_gravity="fill_horizontal" />
+
+            </GridLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/description"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/description_tv_details"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="18sp"
+            tools:text="@string/golden_gates_description"
+            android:fontFamily="sans-serif-condensed"
+            android:textSize="16sp"/>
+
+    </LinearLayout>
+
+</ScrollView>

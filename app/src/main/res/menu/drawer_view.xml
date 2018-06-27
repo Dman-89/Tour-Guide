@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_vladimir"
+            android:icon="@drawable/vladimir_coat_of_arms"
+            android:title="@string/vladimir" />
+        <item
+            android:id="@+id/nav_suzdal"
+            android:icon="@drawable/suzdal_coat_of_arms"
+            android:title="@string/suzdal" />
+        <item
+            android:id="@+id/nav_murom"
+            android:icon="@drawable/murom_coat_of_arms"
+            android:title="@string/murom" />
+        <item
+            android:id="@+id/nav_raduzhnyy"
+            android:icon="@drawable/raduzhny_coat_of_arms"
+            android:title="@string/raduzhnyy" />
+    </group>
+</menu>
